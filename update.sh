@@ -25,4 +25,4 @@ wget -q -O /usr/bin/mspeed "https://raw.githubusercontent.com/bracoli/multiws/ma
 wget -q -O /usr/bin/mbandwith "https://raw.githubusercontent.com/bracoli/multiws/main/menu-bandwith.sh" && chmod +x /usr/bin/mbandwith
 echo -e " [INFO] Update Successfully"
 sleep 2
-exit
+clear
